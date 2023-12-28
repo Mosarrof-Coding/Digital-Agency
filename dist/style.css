@@ -76,7 +76,7 @@ nav {
 /* hero Section  */
 #hero {
   background: #f6f3eb;
-  padding: 35px 0;
+  padding: 35px 0 114px 0;
 }
 .heroWarpper {
   display: flex;
@@ -113,6 +113,7 @@ h1 {
 }
 .heroImg {
   max-width: 508px;
+  margin-left: auto;
 }
 .heroImg img {
   width: 100%;
